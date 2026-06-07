@@ -4,6 +4,7 @@ import {
   saveResult,
   getResultsByExamId,
   getUserResults,
+  getUserResultsByExamId,
   toggleResultVisibility,
   getAllResults,
 } from "../controllers/resultController.js";

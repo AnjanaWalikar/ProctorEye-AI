@@ -280,6 +280,7 @@ export {
   saveResult,
   getResultsByExamId,
   getUserResults,
+  getUserResultsByExamId,
   toggleResultVisibility,
   getAllResults,
 };
